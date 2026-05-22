@@ -5,7 +5,13 @@ All notable changes to this repository will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [2026.05.22] — 2026-05-22
+
+### Added
+- **agent-ready: session-startup, DoD, JSON-ledger guidance** (#38)
+   - Session startup hooks for agent initialization workflows
+   - Definition of Done framework for agent tasks  
+   - JSON ledger tracking for agent session audit trails
 
 ## [2026.04.14] — 2026-04-14
 
@@ -33,14 +39,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Docs
 - Documented release process and versioning strategy
 
-## [2026.05.22] — 2026-05-22
-
-### Added
-- **agent-ready: session-startup, DoD, JSON-ledger guidance** (#38)
-  - Session startup hooks for agent initialization workflows
-  - Definition of Done framework for agent tasks
-  - JSON ledger tracking for agent session audit trails
-
-[Unreleased]: https://github.com/dgalarza/claude-code-workflows/tree/main
-[2026.04.14]: https://github.com/dgalarza/claude-code-workflows/tree/2026.04.14
 [2026.05.22]: https://github.com/dgalarza/claude-code-workflows/tree/2026.05.22
+[2026.04.14]: https://github.com/dgalarza/claude-code-workflows/tree/2026.04.14
