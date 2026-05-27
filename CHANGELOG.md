@@ -5,7 +5,7 @@ All notable changes to this repository will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [2026.05.26] — 2026-05-26
 
 ### Changed
 - **agent-ready v1.3.1** — Session Startup template now tells agents to fetch remote refs and sync with the upstream default branch using the repo's merge or rebase strategy before starting work.
@@ -44,5 +44,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Docs
 - Documented release process and versioning strategy
 
+[2026.05.26]: https://github.com/dgalarza/claude-code-workflows/tree/2026.05.26
 [2026.05.22]: https://github.com/dgalarza/claude-code-workflows/tree/2026.05.22
 [2026.04.14]: https://github.com/dgalarza/claude-code-workflows/tree/2026.04.14
